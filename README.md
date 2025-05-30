@@ -4,7 +4,6 @@
 I don’t chase trends—I build inevitabilities.
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=immanuel1598&show_icons=true)](https://github.com/immanuel1598)
-[![Build Status](https://github.com/immanuel1598/nestjs-kafka-microservices/workflows/CI/badge.svg)](https://github.com/immanuel1598/nestjs-kafka-microservices/actions)
 
 ---
 
