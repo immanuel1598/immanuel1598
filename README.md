@@ -8,7 +8,7 @@ I don’t chase trends—I build inevitabilities.
 ---
 
 ## 🚀 Currently Working On
-- **Android Payment Integration** (Java): implementing Stripe & local caching  
+- **Android Payment Integration** : implementing Stripe & local caching  
 - **Microservices Boilerplate:** NestJS · Kafka · Redis in Docker  
 - **Kubernetes Migration:** planning Helm charts & Terraform modules  
 
