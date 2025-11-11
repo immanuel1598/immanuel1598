@@ -17,16 +17,16 @@ I don’t chase trends—I build inevitabilities.
 ## 🛠️ Tech Stack
 
 **Backend / APIs**  
-NestJS · Laravel · Kafka · Redis · Docker
+NestJS · Laravel · Golang · Rust · Kafka · Redis · Docker
 
 **Mobile**  
-Android (Java) · iOS (Swift) · Flutter
+Android (Java/kotlin) · Flutter
 
 **Frontend / Testing**  
 React · TypeScript · Jest · Cypress
 
 **Infra / CI/CD**  
-GitHub Actions · Docker Compose · (Kubernetes · Helm · Terraform)
+GitHub Actions · Docker Compose · (Kubernetes)
 
 ---
 
