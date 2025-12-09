@@ -5,13 +5,13 @@
 
 ### Contact
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank" rel="noreferrer">
+  <a href="https://github.com/immanuel1598" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-GitHub-151515?logo=github&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:okwuredriver@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/immanuel-okwudiafor-42b31a2b1" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
   </a>
 </p>
